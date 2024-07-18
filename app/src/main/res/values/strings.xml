@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Screen Mirroring</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="we_provide_a_shortcut_to_your_device_miracast_settings_application_settings_have_no_effect_here_click_miracast_settings_button_to_open_your_device_miracast_settings_and_enable_wireless_display_option_from_menu_if_applicable"><![CDATA[We provide a shortcut to your device Miracast Settings Application settings have no effect here. Click Miracast Settings button to open your device Miracast Settings and enable \'Wireless Display option from menu if applicable.]]></string>
+    <string name="screen_casting_is_inbuilt_feature_which_comes_with_most_of_android_operating_system_based_on_the_manufacturer_in_some_of_the_mobile_the_feature_is_hidden_and_not_visible_to_user_because_of_some_delay_in_screen_mirroring_let_s_get_started"><![CDATA[Screen casting is inbuilt feature which comes with most of Android Operating System Based on the Manufacturer.In some of the mobile, the feature is hidden and not visible to user because of some delay in screen mirroring Let\'s Get Started]]></string>
+</resources>
